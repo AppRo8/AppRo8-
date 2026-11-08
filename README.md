@@ -7,10 +7,6 @@
 
   <a href="https://www.appro8.com">
     <img src="https://img.shields.io/badge/Website-www.appro8.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:inquiries@appro8.com">
-    <img src="https://img.shields.io/badge/Email-inquiries@appro8.com-red?style=for-the-badge&logo=zoho&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <br />
@@ -25,7 +21,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Zoho_Mail-EA4335?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho" />
+  
 </p>
 
 ### 💼 Our Solutions & Expertise
